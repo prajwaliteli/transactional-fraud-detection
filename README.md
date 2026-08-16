@@ -34,6 +34,6 @@ This project focuses on analyzing financial transactions and identifying fraudul
 ## Project Progress
 
 - [x] Week 1 - Data Preparation and Initial Exploration
-- [ ] Week 2 - Exploratory Data Analysis
+- [x] Week 2 - Exploratory Data Analysis
 - [ ] Week 3 - Feature Engineering and Machine Learning
 - [ ] Week 4 - Dashboard and Reporting
